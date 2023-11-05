@@ -1,2 +1,1 @@
-# encryptor_py
-# encryptor_py
+Шифруем файлы с помощью Python
